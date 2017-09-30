@@ -1,3 +1,5 @@
 Sample text here.
 Updating with Tortois
 made additional changes to tortois' clone file test.txt
+Updating with Bash...
+Updating with Tortois
